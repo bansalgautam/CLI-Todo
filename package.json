@@ -1,7 +1,7 @@
 {
-  "name": "cohort",
+  "name": "CLI-Todo",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "todo.js",
   "private": true,
   "type": "module",
   "scripts": {
